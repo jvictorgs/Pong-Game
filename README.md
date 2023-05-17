@@ -10,7 +10,7 @@
 
 <p align="center">O Jogo foi criado utilizando uma biblioteca web de javascript chamada: P5.JS. O jogo foi criado no intuito de aperfeiçõar todos os meus aprendizados em lógica de programação, e nele o usuário compete com seu amigo, quem consegue realizar a maior pontuação, evitando deixar a bolinha encostar na sua borda da tela. Nele estão contidos, efeitos sonoros e uma trilha sonora de fundo enquanto o jogo é executado. Para jogar, um usuário pode mexer a barra com as teclas (W e S), e o outro usuário pode mexer a barra com as teclas (Seta para cima e Seta para baixo).</p>
 
-<h2 align="center">Links: https://pong-game-omega.vercel.app</h2>
+<h2 align="center">Links: https://pong-game-znc1.vercel.app</h2>
 
 ## 🛠️ Abrir e rodar o projeto
 
